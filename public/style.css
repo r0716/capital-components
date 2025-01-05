@@ -1,0 +1,7 @@
+:root {
+    --adyen-sdk-color-outline-primary-active: #0abf53;
+    --adyen-sdk-color-background-inverse-primary: #0abf53;
+    --adyen-sdk-color-background-inverse-primary-hover: #57d389;
+    --adyen-sdk-color-background-disabled: #9ecdb1;
+    --adyen-sdk-border-radius-m: 20px;
+}
